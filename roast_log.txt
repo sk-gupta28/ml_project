@@ -1,0 +1,2 @@
+2025-08-06 10:44:52.682002 | Roast | Input: u are mad | Output: You're like an IDE with no extensions — basic and stable. 🧰
+2025-08-06 10:44:58.297988 | Roast | Input: I’m coding | Output: You're as flat as CSS without shadows. 🧾
